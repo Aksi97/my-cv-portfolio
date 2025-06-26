@@ -9,9 +9,9 @@ function ContactModal({ isOpen, onClose }) {
       <div className="modal-content" onClick={(e) => e.stopPropagation()}>
         <button className="modal-close" onClick={onClose} aria-label="Close contact modal">&times;</button>
         <h2>Contact Information</h2>
-        <p><strong>Phone:</strong> +971 55 179 9203</p>
+        <p><strong>Phone:</strong> +46 734025838</p>
         <p><strong>Email:</strong> dubeyakash2005@gmail.com</p>
-        <p><strong>Address:</strong> Dubai, United Arab Emirates</p>
+        <p><strong>Address:</strong> Sjöbo, Skåne, Sverige</p>
       </div>
     </div>
   );
