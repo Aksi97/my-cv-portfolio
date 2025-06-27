@@ -10,17 +10,15 @@ function HeroSection() {
             <div className="greeting">
               I'm Akash. Nice to<br /><span className="highlight">meet you!</span>
             </div>
-            {/* --- UPDATED PART BELOW --- */}
             <a 
-              href="/akasdubey.pdf" // Path to your PDF in the public folder
-              download="akasdubey.pdf" // Suggests a filename for download
-              target="_blank"             // Opens in a new tab/window
-              rel="noopener noreferrer"   // Security best practice for target="_blank"
+              href="/akasdubey.pdf" 
+              download="akasdubey.pdf" 
+              target="_blank"             
+              rel="noopener noreferrer"   
               className="cta-button"
             >
               Check Out My Resume
             </a>
-            {/* --- END UPDATED PART --- */}
           </div>
         </div>
       </div>
