@@ -3,6 +3,7 @@ import Header from './components/Header';
 import HeroSection from './components/HeroSection';
 import AboutModal from './components/AboutModal';
 import ContactModal from './components/ContactModal';
+import LinkedInLogo from './components/LinkedInLogo'; 
 
 function App() {
   const [showAboutModal, setShowAboutModal] = useState(false);
@@ -51,6 +52,7 @@ function App() {
 
       <AboutModal isOpen={showAboutModal} onClose={handleCloseAboutModal} />
       <ContactModal isOpen={showContactModal} onClose={handleCloseContactModal} />
+      <LinkedInLogo />
     </>
   );
 }
