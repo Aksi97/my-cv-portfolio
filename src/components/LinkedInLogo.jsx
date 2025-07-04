@@ -10,8 +10,7 @@ const LinkedInLogo = () => {
         rel="noopener noreferrer"
         aria-label="LinkedIn Profile"
       >
-        {/* If using React Icons */}
-        <FaLinkedinIn size={10} className="linkedin-icon" /> {/* Adjust size as needed */}
+        <FaLinkedinIn size={10} className="linkedin-icon" />
        
       </a>
     </div>

@@ -11,8 +11,8 @@ function HeroSection() {
               I'm Akash. Nice to<br /><span className="highlight">meet you!</span>
             </div>
             <a 
-              href="/akasdubey.pdf" 
-              download="akasdubey.pdf" 
+              href="/akashdubey.pdf" 
+              download="akashdubey.pdf" 
               target="_blank"             
               rel="noopener noreferrer"   
               className="cta-button"

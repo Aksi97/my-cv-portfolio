@@ -4,7 +4,6 @@ function ContactModal({ isOpen, onClose }) {
   const modalClass = isOpen ? "modal-backdrop show" : "modal-backdrop";
 
   return (
-    // Only render the modal if it's open (optional but good practice)
     <div className={modalClass} onClick={onClose}>
       <div className="modal-content" onClick={(e) => e.stopPropagation()}>
         <button className="modal-close" onClick={onClose} aria-label="Close contact modal">&times;</button>
