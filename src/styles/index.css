@@ -185,7 +185,6 @@
         .modal-backdrop.show {
             opacity: 1;
             visibility: visible;
-            backdrop-filter: blur(4px); 
         }
 
         .modal-content {
