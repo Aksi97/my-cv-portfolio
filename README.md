@@ -1,4 +1,4 @@
-# My Personal Portfolio: From Support Specialist to Aspiring Web Developer!
+# My Personal Portfolio: Aspiring Web Developer!
 
 ![Project Screenshot](https://raw.githubusercontent.com/Aksi97/my-cv-portfolio/main/public/Website.png)
 
